@@ -8,7 +8,7 @@
 
 ### Screenshot of output ![Screenshot](https://github.com/JWCoad/Professional-README-Generator/blob/main/assets/demooutput.JPG)
 
-### Resources used:
+## Resources used:
 
 ### [Screencastify](https://www.screencastify.com/)
 
@@ -18,5 +18,6 @@
 
 ## Technologies
 
-- [Node.js](https://nodejs.org/)
-- [Inquirer.js](https://www.npmjs.com/package/inquirer)
+### [Node.js](https://nodejs.org/)
+
+### [Inquirer.js](https://www.npmjs.com/package/inquirer)
