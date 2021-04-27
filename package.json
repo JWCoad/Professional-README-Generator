@@ -1,13 +1,13 @@
 {
-  "name": "static-site",
+  "name": "Professional-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI to make a README MD",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "JWC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.5.2"
   }
